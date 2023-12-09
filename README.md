@@ -19,8 +19,6 @@
 
 ## About The Project
 
-<img src="assets\images\Untitled.png" alt="about">
-
 Hints :
 
 build with Html , css & vanila js
